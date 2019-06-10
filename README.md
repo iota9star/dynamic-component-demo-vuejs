@@ -1,4 +1,8 @@
-# module_demo
+# Vue dynamic component demo.
+
+## Screen shot
+![1.png](art/1.png)  
+![2.png](art/2.png)  
 
 ## Project setup
 ```

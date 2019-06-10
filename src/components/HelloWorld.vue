@@ -11,7 +11,7 @@
               预览
             </v-card-title>
             <v-divider></v-divider>
-            <component :is="comp" :key="index" v-for="(comp,index) in previewComps"></component>
+            <component :is="comp" :key="index" v-for="(comp, index) in previewComps"></component>
           </v-card>
         </v-flex>
         <v-flex xs4>
